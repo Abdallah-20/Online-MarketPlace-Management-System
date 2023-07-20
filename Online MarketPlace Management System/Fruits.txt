@@ -1,0 +1,2 @@
+1 orange 15 fruits 1
+2 banna 10 fruits 1
